@@ -7,3 +7,18 @@ body{
 .height{
     min-height: 100vh;
 }
+.height-80{
+    min-height: 80vh;
+}
+.title-underline{
+    width: 200px;
+    height: 5px;
+    margin: 0 auto;
+}
+.about-pic{
+    background: url(../img/bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
