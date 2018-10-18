@@ -1,0 +1,9 @@
+body{
+    font-family: 'Slabo 27px', serif;
+}
+#skills{
+    padding: 480px 0;
+}
+.height{
+    min-height: 100vh;
+}
