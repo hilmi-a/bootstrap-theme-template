@@ -16,7 +16,8 @@ body{
     margin: 0 auto;
 }
 .about-pic{
-    background: url(../img/bg.jpeg);
+    background: url(../img/bg-about.jpg);
+    /* background: url(../img/bg.jpeg)center/cover no-repeat fixed; */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
